@@ -1,0 +1,12 @@
+export const SKIN = '#d9a077';
+export const SKIN_PATIENT = '#cf9b76';
+export const SCRUBS = '#2f8f86';
+export const SCRUBS_DARK = '#23706a';
+export const GLOVE = '#3f7fd0';
+export const GOWN = '#c9d3dc';
+export const HAIR = '#3a2b23';
+export const EQUIPMENT = '#2a2f36';
+export const EQUIPMENT_LIGHT = '#454d57';
+export const BLOOD = '#a3161d';
+export const GAUZE = '#eef1f2';
+export const FLUID = '#cfe6f5';

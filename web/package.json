@@ -1,0 +1,25 @@
+{
+  "name": "clinical-walkthrough",
+  "version": "1.0.0",
+  "description": "Interactive 3D clinical procedure walkthrough",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@react-three/drei": "^10.7.8",
+    "@react-three/fiber": "^9.7.0",
+    "@react-three/xr": "^6.6.30",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "three": "^0.185.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.0.5",
+    "puppeteer-core": "^25.7.0",
+    "vite": "^8.2.1"
+  }
+}

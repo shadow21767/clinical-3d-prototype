@@ -1,0 +1,16 @@
+# Build output
+build/
+cmake-build*/
+*.spv
+
+# Frame captures and texture dumps produced by CLINICAL_CAPTURE / CLINICAL_DUMP
+dump/
+dump2/
+
+# Web version
+web/node_modules/
+web/dist/
+web/shots/
+
+# macOS
+.DS_Store
